@@ -1,0 +1,15 @@
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\bin\Debug\net6.0\CrossPlatformBeeCeeTest.exe
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\bin\Debug\net6.0\CrossPlatformBeeCeeTest.deps.json
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\bin\Debug\net6.0\CrossPlatformBeeCeeTest.runtimeconfig.json
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\bin\Debug\net6.0\CrossPlatformBeeCeeTest.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\bin\Debug\net6.0\CrossPlatformBeeCeeTest.pdb
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.csproj.AssemblyReference.cache
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.AssemblyInfoInputs.cache
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.AssemblyInfo.cs
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.csproj.CoreCompileInputs.cache
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\refint\CrossPlatformBeeCeeTest.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.pdb
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\CrossPlatformBeeCeeTest.genruntimeconfig.cache
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\CrossPlatformBeeCeeTest\obj\Debug\net6.0\ref\CrossPlatformBeeCeeTest.dll

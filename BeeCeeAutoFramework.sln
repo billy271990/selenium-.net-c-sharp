@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeCeeAutoFramework", "BeeCeeAutoFramework\BeeCeeAutoFramework.csproj", "{7AE64918-A9FC-4701-BF5B-4A66256A04B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformBeeCeeTest", "CrossPlatformBeeCeeTest\CrossPlatformBeeCeeTest.csproj", "{3BC26E1B-11DD-4617-9AAF-428E0D5EE65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE64918-A9FC-4701-BF5B-4A66256A04B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE64918-A9FC-4701-BF5B-4A66256A04B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE64918-A9FC-4701-BF5B-4A66256A04B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE64918-A9FC-4701-BF5B-4A66256A04B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC26E1B-11DD-4617-9AAF-428E0D5EE65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC26E1B-11DD-4617-9AAF-428E0D5EE65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC26E1B-11DD-4617-9AAF-428E0D5EE65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC26E1B-11DD-4617-9AAF-428E0D5EE65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40429824-1D5F-4AEB-B1D0-15CCB904E5BF}
+	EndGlobalSection
+EndGlobal
