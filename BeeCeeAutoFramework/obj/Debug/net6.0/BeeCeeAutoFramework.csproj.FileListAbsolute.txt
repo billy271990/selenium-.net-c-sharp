@@ -1,6 +1,15 @@
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\CrossPlatformBeeCeeTest.deps.json
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\CrossPlatformBeeCeeTest.runtimeconfig.json
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\CrossPlatformBeeCeeTest.exe
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\BrowserTests.cs
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\Program.cs
+C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\Class1.cs
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\BeeCeeAutoFramework.deps.json
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\BeeCeeAutoFramework.dll
 C:\Users\bill_\source\repos\BeeCeeAutoFramework\BeeCeeAutoFramework\bin\Debug\net6.0\BeeCeeAutoFramework.pdb
