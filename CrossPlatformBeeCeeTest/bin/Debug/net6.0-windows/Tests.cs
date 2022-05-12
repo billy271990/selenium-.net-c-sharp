@@ -17,8 +17,23 @@ namespace BeeCeeAutoFramework
             Driver = new ChromeDriver();
         }
 
+        [TearDown]
+        public void Close()
+        {
+            Driver.Dispose();
+        }
+
         [Test]
         public void Test1()
+        {
+            Driver.Navigate().GoToUrl("https://demowf.aspnetawesome.com/");
+
+            Console.WriteLine("Test1");
+            Assert.Pass();
+        }
+
+        [Test]
+        public void LaunchAndCloseBrowserWindow()
         {
             Driver.Navigate().GoToUrl("https://demowf.aspnetawesome.com/");
 
